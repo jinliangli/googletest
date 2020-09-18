@@ -8,6 +8,7 @@ environment:
   - Toolset: v120
   - Toolset: v110
   - Toolset: v100
+  - Toolset: v200
 
 platform:
   - Win32
